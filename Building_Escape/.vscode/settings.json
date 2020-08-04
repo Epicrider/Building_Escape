@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/Repos/UnrealGames/Building_Escape/Building_Escape/.vscode": true,
+		"D:/Repos/UnrealGames/Building_Escape/Building_Escape/Content": true,
+		"D:/Repos/UnrealGames/Building_Escape/Building_Escape/DerivedDataCache": true,
+		"D:/Repos/UnrealGames/Building_Escape/Building_Escape/Intermediate": true,
+		"D:/Repos/UnrealGames/Building_Escape/Building_Escape/Saved": true
+	}
+}
