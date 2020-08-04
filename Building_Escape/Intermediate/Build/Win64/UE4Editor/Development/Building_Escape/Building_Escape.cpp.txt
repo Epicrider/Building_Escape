@@ -1,2 +1,0 @@
-D:\Repos\UnrealGames\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
-d:\repos\unrealgames\building_escape\building_escape\source\building_escape\Building_Escape.h

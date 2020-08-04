@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/Repos/UnrealGames/Building_Escape/.git": true,
+		"D:/Repos/UnrealGames/Building_Escape/.vscode": true,
+		"D:/Repos/UnrealGames/Building_Escape/Content": true,
+		"D:/Repos/UnrealGames/Building_Escape/DerivedDataCache": true,
+		"D:/Repos/UnrealGames/Building_Escape/Intermediate": true,
+		"D:/Repos/UnrealGames/Building_Escape/Saved": true
+	}
+}

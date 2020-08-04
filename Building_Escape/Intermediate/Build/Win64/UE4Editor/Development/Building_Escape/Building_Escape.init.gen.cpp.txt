@@ -1,3 +1,0 @@
-D:\Repos\UnrealGames\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
-D:\Tools\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Tools\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
