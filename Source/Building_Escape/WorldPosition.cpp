@@ -11,13 +11,20 @@ UWorldPosition::UWorldPosition()
 	PrimaryComponentTick.bCanEverTick = true;
 
 	// ...
-}
+
 
 
 // Called when the game starts
 void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
+	FString epicrider = TEXT("Hello!");
+	FString* savior = &epicrider;
+	Epicrider.Len();
+	(*savior).Len();
+	savior->Len();
+	UE_LOG(LogTemp, Warning, TEXT("%s"),**savior);
+	UE_LOG(LogTemp, Warning, TEXT("%s"), *epicrider);
 
 	// ...
 	
